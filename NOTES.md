@@ -1,5 +1,11 @@
+---
+title: "Strategies for the conditioning of operating models for IOTC stocks"
+author: "C Edwards (Cescapecs), R Hillary (CSIRO), I Mosqueira (MWR), A Preece
+(CSIRO), D Rosa (IPMA) A Williams (CSIRO)."
+tags:
+---
 
-# ISSUES:
+# ISSUES
 
 - MSE as exploratory analysis vs. SA as consolidative analyses have different aims: characterize dynamics with uncertainty vs. providing best estimate of status and potential.
 
@@ -10,7 +16,7 @@
 - ABC algorithms
 - Important to capture well emergent properties: productivity, variability and , plus status.
 
-# EXAMPLES:
+# EXAMPLES
 
 ## ICES WKLIFEX
 
